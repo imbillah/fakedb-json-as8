@@ -11,7 +11,7 @@
 	{
 		"id": "222b",
         "tittle": "Finance & Accounting",
-        "description": "Succeed as a Financial Analyst &Investor by Award Winning MBA Prof who worked @Goldman, in Hedge Funds & Venture Capital. Become an expert in Excel for financial analysts (no prior Excel knowledge is required).",
+        "description": "Succeed as a Financial Analyst &Investor by Award Winning MBA Prof who worked @Goldman, in Hedge Funds & Venture Capital.",
         "price": 299,
         "Category": "Finance",
 		"enroll": "321+",
@@ -20,7 +20,7 @@
 	{
 		"id": "333c",
         "tittle": "Data Science",
-        "description": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning. Impress interviewers by showing an understanding of the data science field",
+        "description": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning.",
         "price": 349,
         "Category": "Programming",
 		"enroll": "101+",
@@ -29,7 +29,7 @@
 	{
 		"id": "444d",
         "tittle": "Cyrptocurrency & Blockchain",
-        "description": "Build a blockchain and cryptocurrency. Discover the engineering ideas behind technologies like Bitcoin and Ethereum! Discuss the implementation of Blockchain and cryptocurrencies.",
+        "description": "Build a blockchain and cryptocurrency. Discover the engineering ideas behind technologies like Bitcoin and Ethereum!",
         "price": 299,
         "Category": "Finance",
 		"enroll": "122+",
