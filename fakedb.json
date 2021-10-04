@@ -2,7 +2,7 @@
 	{
 		"id": "111a",
         "tittle": "Grphic Design & Multimedia",
-        "description": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design. Master Your Design Skill by Sitting at Home",
+        "description": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design.",
         "price": 199,
         "Category": "Design & Illustration",
 		"enroll": "122+",
@@ -38,7 +38,7 @@
 	{
 		"id": "555d",
         "tittle": "Web Design & Development",
-        "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more! Learn the latest frameworks and technologies, including Javascript ES6, Bootstrap 5, MongoDB.",
+        "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
         "price": 210,
         "Category": "Design & Development",
 		"enroll": "177+",
@@ -52,5 +52,41 @@
         "Category": "Well Being",
 		"enroll": "499+",
         "img": "https://i.postimg.cc/dVQhs18V/6.jpg"
+	},
+	{
+		"id": "777f",
+        "tittle": "Pet Care & Training",
+        "description": "Learn to address house soiling, chewing, barking, digging, separation anxiety, jumping up, pulling on leash and more",
+        "price": 99,
+        "Category": "Animals",
+		"enroll": "119+",
+        "img": "https://i.postimg.cc/sgfDzZyn/7.jpg"
+	},
+	{
+		"id": "888g",
+        "tittle": "Music & Art",
+        "description": "A practical approach to Music Theory for adult beginners. Learn at your own pace with complete guidance along the way.",
+        "price": 149,
+        "Category": "Music",
+		"enroll": "377+",
+        "img": "https://i.postimg.cc/LXpWdjF5/8.jpg"
+	},
+	{
+		"id": "999h",
+        "tittle": "Religion & Spiritulity",
+        "description": "Transform your own life while at the same time learn practical steps and knowledge to become a powerful and successful Spiritual Life coach.",
+        "price": 249,
+        "Category": "Religious",
+		"enroll": "500+",
+        "img": "https://i.postimg.cc/rm5KsXHg/9.jpg"
+	},
+	{
+		"id": "1010i",
+        "tittle": "Digital Marketing",
+        "description": "Get Your Google Analytics Certification Quickly to Get a Job, Earn More or Start a New Career in Digital Marketing.",
+        "price": 100,
+        "Category": "Marketing",
+		"enroll": "600+",
+        "img": "https://i.postimg.cc/mgMx0L1d/10.jpg"
 	}
 ]

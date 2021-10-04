@@ -1,0 +1,82 @@
+[
+    {
+        "id": "111a",
+        "name": "Lucas Murphy",
+        "country": "USA",
+        "ratings": "4.8",
+        "img": "https://i.ibb.co/HBw0L7q/1.jpg",
+		"remarks": "Spectacular! Super complete, super clear, super pro course. Mind blowing. I have done lot of machine learning courses. None of those explain as well as this one all theory and practical activities. It was a great decision to take this course."
+    },
+	{
+        "id": "222b",
+        "name": "Zachary Shelton",
+        "country": "UK",
+        "ratings": "4.5",
+        "img": "https://i.ibb.co/2k113GJ/2.jpg",
+		"remarks": "Overall Amazing course, This course helped me to decide what do do next and peaked my interest in deep learning even understanding long mathematical algorithms doesn't seem that much hard too me now after getting some intuition earlier on the topic."
+    },
+	{
+        "id": "333c",
+        "name": "Franklin Morgan",
+        "country": "Russia",
+        "ratings": "5",
+        "img": "https://i.ibb.co/hDvvDfJ/3.jpg",
+		"remarks": "This course exceeded my expectations! It is extremely well-planned with engaging tutorials. What impressed me the most about this course is the ability of the instructors to make complicated concepts seem very simple."
+    },
+	{
+        "id": "444d",
+        "name": "Mahbub Sizer",
+        "country": "Bangladesh",
+        "ratings": "4.4",
+        "img": "https://i.ibb.co/pjjkvMz/4.jpg",
+		"remarks": "Spectacular! Super complete, super clear, super pro course. Mind blowing. I have done lot of machine learning courses. None of those explain as well as this one all theory and practical activities. It was a great decision to take this course."
+    },
+	{
+        "id": "555e",
+        "name": "Regina Urbano",
+        "country": "Canada",
+        "ratings": "4.7",
+        "img": "https://i.ibb.co/QKGtz3V/5.jpg",
+		"remarks": "Overall Amazing course, This course helped me to decide what do do next and peaked my interest in deep learning even understanding long mathematical algorithms doesn't seem that much hard too me now after getting some intuition earlier on the topic."
+    },
+	{
+        "id": "666f",
+        "name": "Marta Bradley",
+        "country": "USA",
+        "ratings": "4.9",
+        "img": "https://i.ibb.co/VT4Ngf5/6.jpg",
+		"remarks": "Wow this course is great, I have learnt a lot in this course they are definitely going to help me further, they have explained the intuition part really well able to understand them easily, Thanks for giving the additional resources."
+    },
+	{
+        "id": "777g",
+        "name": "Gabriel Howell",
+        "country": "Germany",
+        "ratings": "4.5",
+        "img": "https://iili.io/Rt92iF.jpg",
+		"remarks": "Very complete course, with clear explanations, interesting and useful examples. The practical part was very well planned, I had no problem in reproducing the codes and getting the expected results."
+    },
+	{
+        "id": "888h",
+        "name": "Elias Walker",
+        "country": "Australia",
+        "ratings": "4.2",
+        "img": "https://iili.io/Rt9Kla.jpg",
+		"remarks": "Overall Amazing course, This course helped me to decide what do do next and peaked my interest in deep learning even understanding long mathematical algorithms doesn't seem that much hard too me now after getting some intuition earlier on the topic."
+    },
+	{
+        "id": "999i",
+        "name": "Wesley French",
+        "country": "France",
+        "ratings": "5",
+        "img": "https://i.postimg.cc/dt0qXQsJ/9.jpg",
+		"remarks": "Wow this course is great, I have learnt a lot in this course they are definitely going to help me further, they have explained the intuition part really well able to understand them easily, Thanks for giving the additional resources."
+    },
+	{
+        "id": "101j",
+        "name": "Pamela Blake",
+        "country": "Russia",
+        "ratings": "4.9",
+        "img": "https://i.postimg.cc/0ywqRbL1/10.jpg",
+		"remarks": "Complete and comprehensive, they go lengths to make sure you learn properly and the mix of intuition lectures followed by code is super cool. Highly Reccomend it if you want to get started with ML."
+    }
+]
